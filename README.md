@@ -18,7 +18,12 @@ Ce dépôt contiendra :
    - **Description** : Utiliser l'algorithme K-Nearest Neighbors pour prédire si un prêt sera approuvé ou refusé, basé sur des caractéristiques telles que le revenu, l'historique de crédit, et le statut matrimonial.
    - **Objectif** : Construire un modèle performant pour classifier les demandes de prêt.
    - **Statut** : Terminé.
-
+   
+2. **Régression Polynomiale - Immobilier**  
+   - **Description** : Application de la régression polynomiale sur un jeu de données immobilier (Real Estate Dataset) pour modéliser et prédire des variables, comme les prix des propriétés.
+   - **Objectif** : Explorer comment les relations complexes entre les caractéristiques influencent les résultats.
+   - **Statut** : **En cours**.
+   - 
 ---
 
 ## **Technologies utilisées**
