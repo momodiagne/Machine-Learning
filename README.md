@@ -20,7 +20,7 @@ Ce dépôt contiendra :
    - **Statut** : Terminé.
    
 2. **Régression Polynomiale - Immobilier**  
-   - **Description** : Application de la régression polynomiale sur un jeu de données immobilier (Real Estate Dataset) pour modéliser et prédire des variables, comme les prix des propriétés.
+   - **Description** : Application de la régression polynomiale sur un jeu de données immobilier pour modéliser et prédire des variables, comme les prix des propriétés.
    - **Objectif** : Explorer comment les relations complexes entre les caractéristiques influencent les résultats.
    - **Statut** : **En cours**.
    
@@ -38,8 +38,6 @@ Ce dépôt contiendra :
 ---
 
 ## **Contribution**
-NIANG Sokhna Safietou Sy
-
 NDIAGNE Mamadou
 
 ---
