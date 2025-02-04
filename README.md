@@ -49,4 +49,4 @@ Ce projet est ouvert à tous à des fins éducatives et non commerciales. Vous �
 
 ---
 
-Ce dépôt évoluera au fur et à mesure du semestre avec de nouveaux projets et analyses. Bonne exploration et apprentissage ! 🚀
+Ce dépôt évoluera au fur et à mesure avec de nouveaux projets et analyses. Bonne exploration et apprentissage ! 🚀
