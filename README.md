@@ -19,9 +19,9 @@ Ce dépôt contiendra :
    - **Objectif** : Construire un modèle performant pour classifier les demandes de prêt.
    - **Statut** : Terminé.
    
-2. **Régression Polynomiale - Immobilier**  
-   - **Description** : Application de la régression polynomiale sur un jeu de données immobilier pour modéliser et prédire des variables, comme les prix des propriétés.
-   - **Objectif** : Explorer comment les relations complexes entre les caractéristiques influencent les résultats.
+2. **Régression Random Forest - Immobilier**  
+   - **Description** : Application de la régression avec **Random Forest** sur un jeu de données immobilier pour modéliser et prédire des variables, comme les prix des propriétés.  
+   - **Objectif** : Explorer comment les différentes caractéristiques influencent les prix en utilisant un modèle d'arbres de décision ensemble.  
    - **Statut** : **En cours**.
    
 ---
